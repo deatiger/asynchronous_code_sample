@@ -1,0 +1,17 @@
+{
+  "name": "asynchronous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exec": "node --experimental-modules"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "require": "^2.4.20"
+  }
+}
