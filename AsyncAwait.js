@@ -14,7 +14,8 @@ const getGitUsername = async () => {
             return null
         });
 
-    console.log(message + json.login)
+    const username = json.login;
+    console.log(message + username)
 }
 
 getGitUsername()
